@@ -2,12 +2,12 @@
   "_comment": "Every text string the website shows is controlled here. Add/remove sections by adding/removing their arrays.",
 
   "eventDate": "2026-04-01",
-  "eventTime": "6:00 PM onwards",
+  "eventTime": "7:30 PM onwards",
 
   "title": "सप्तसुर",
   "subtitle": "Tere Sur Aur Mere Geet",
   "tagline": "In Eternal Memory of Bharat Ratna Lata Mangeshkar",
-  "description": "World Record Attempt: Maximum Singers Performing 97 Lata Mangeshkar Songs Live Across Multiple Languages",
+  "description": "World Record Attempt:Performing 97 Lata Mangeshkar Songs Live Across Multiple Languages",
 
   "wriLabel": "World Records India — Certified",
   "countdownLabel": "Time Until the Evening of a Lifetime",
@@ -63,43 +63,26 @@
 
   "performers": [
     { "name": "Sunidhi Chauhan",          "role": "Lead Vocalist",  "emoji": "🎤", "desc": "Bollywood's powerhouse voice, bringing fire and finesse." },
-    { "name": "Shreya Ghoshal",           "role": "Lead Vocalist",  "emoji": "🎵", "desc": "Ethereal, classically trained — a natural torchbearer of Lataji's legacy." },
-    { "name": "Mumbai Symphony Orchestra","role": "Live Orchestra",  "emoji": "🎻", "desc": "65 musicians, authentic period arrangements, full grandeur." }
+  //  { "name": "Shreya Ghoshal",           "role": "Lead Vocalist",  "emoji": "🎵", "desc": "Ethereal, classically trained — a natural torchbearer of Lataji's legacy." },
+//    { "name": "Mumbai Symphony Orchestra","role": "Live Orchestra",  "emoji": "🎻", "desc": "65 musicians, authentic period arrangements, full grandeur." }
   ],
 
   "schedule": [
-    { "time": "6:00 PM",  "name": "Doors Open",          "desc": "Welcome & Registration" },
-    { "time": "6:30 PM",  "name": "Inaugural Ceremony",  "desc": "Lighting of the lamp — honoring the legacy of Lataji" },
-    { "time": "7:00 PM",  "name": "Act I",                "desc": "The Golden Era — songs from the 1950s and 60s" },
-    { "time": "8:15 PM",  "name": "Intermission",         "desc": "Short break" },
-    { "time": "8:30 PM",  "name": "Act II",               "desc": "The Eternal Voice — iconic songs from 1970–2000" },
-    { "time": "9:45 PM",  "name": "World Record Attempt", "desc": "97 singers, 97 songs — live and simultaneous" },
-    { "time": "10:30 PM", "name": "Grand Finale",         "desc": "Ae Mere Watan Ke Logo — full ensemble" }
+    //{ "time": "6:00 PM",  "name": "Doors Open",          "desc": "Welcome & Registration" },
+    { "time": "7:30 PM",  "name": "Inaugural Ceremony",  "desc": "Lighting of the lamp — honoring the legacy of Lataji" },
+    //{ "time": "7:00 PM",  "name": "Act I",                "desc": "The Golden Era — songs from the 1950s and 60s" },
+    //{ "time": "8:15 PM",  "name": "Intermission",         "desc": "Short break" },
+    //{ "time": "8:30 PM",  "name": "Act II",               "desc": "The Eternal Voice — iconic songs from 1970–2000" },
+    //{ "time": "9:45 PM",  "name": "World Record Attempt", "desc": "97 singers, 97 songs — live and simultaneous" },
+    //{ "time": "10:30 PM", "name": "Grand Finale",         "desc": "Ae Mere Watan Ke Logo — full ensemble" }
   ],
 
   "tickets": [
     {
-      "tier": "Silver",
+      "tier": "GOLD",
       "price": "₹500",
       "currency": "Per Person",
       "features": ["General Admission", "Programme Booklet"],
-      "url": "",
-      "ctaLabel": "Book Now"
-    },
-    {
-      "tier": "Gold",
-      "price": "₹1,000",
-      "currency": "Per Person",
-      "featured": true,
-      "features": ["Premium Seating", "Programme Booklet", "Priority Entry"],
-      "url": "",
-      "ctaLabel": "Book Now"
-    },
-    {
-      "tier": "Platinum",
-      "price": "₹2,000",
-      "currency": "Per Person",
-      "features": ["Front Row", "Backstage Access", "Memorabilia"],
       "url": "",
       "ctaLabel": "Book Now"
     }
