@@ -1,0 +1,66 @@
+{
+  "status": 2,
+  "_statusGuide": "1 = teaser only | 2 = songs+performers+venue | 3 = full reveal with schedule+tickets+gallery",
+
+  "eventDate": "2025-11-15",
+  "title": "Swar Sadhana — A Tribute to Lata Mangeshkar",
+  "subtitle": "97 Songs. One Night. Live.",
+
+  "venue": {
+    "name": "NCPA Mumbai",
+    "address": "Nariman Point, Mumbai 400021",
+    "description": "The National Centre for the Performing Arts — India's premier cultural institution — opens its iconic doors for a night that will echo through the ages."
+  },
+
+  "songs": [
+    { "title": "Lag Ja Gale", "film": "Woh Kaun Thi (1964)" },
+    { "title": "Ajeeb Dastan Hai Yeh", "film": "Dil Apna Aur Preet Parai (1960)" },
+    { "title": "Ae Mere Watan Ke Logo", "film": "Live (1963)" },
+    { "title": "Pyaar Kiya Toh Darna Kya", "film": "Mughal-E-Azam (1960)" },
+    { "title": "Raina Beeti Jaaye", "film": "Amar Prem (1972)" },
+    { "title": "Kabhi Kabhi", "film": "Kabhi Kabhie (1976)" },
+    { "title": "Tere Bina Zindagi Se", "film": "Aandhi (1975)" },
+    { "title": "Dil Dhoondta Hai", "film": "Mausam (1975)" },
+    { "title": "Naam Gum Jaayega", "film": "Kinara (1977)" },
+    { "title": "Satyam Shivam Sundaram", "film": "Satyam Shivam Sundaram (1978)" }
+  ],
+
+  "performers": [
+    { "name": "Sunidhi Chauhan", "role": "Lead Vocalist", "emoji": "🎤", "desc": "Bollywood's powerhouse voice." },
+    { "name": "Shreya Ghoshal", "role": "Lead Vocalist", "emoji": "🎵", "desc": "Ethereal and classically trained." },
+    { "name": "Mumbai Symphony Orchestra", "role": "Live Orchestra", "emoji": "🎻", "desc": "65 musicians in full grandeur." }
+  ],
+
+  "schedule": [
+    { "time": "6:00 PM", "name": "Doors Open", "desc": "Welcome drinks and rare vinyl exhibition" },
+    { "time": "7:30 PM", "name": "Act I — The Golden Era", "desc": "Songs from the 1950s and 60s" },
+    { "time": "8:30 PM", "name": "Intermission", "desc": "Cocktails on the Terrace" },
+    { "time": "9:00 PM", "name": "Act II — The Eternal Voice", "desc": "Iconic songs from 1970–2000" },
+    { "time": "10:15 PM", "name": "Grand Finale", "desc": "Ae Mere Watan Ke Logo — full orchestral arrangement" }
+  ],
+
+  "tickets": [
+    {
+      "tier": "Silver",
+      "price": "₹2,500",
+      "currency": "Per Person",
+      "features": ["General Admission", "Programme Booklet", "Welcome Drink"],
+      "url": ""
+    },
+    {
+      "tier": "Gold",
+      "price": "₹6,000",
+      "currency": "Per Person",
+      "featured": true,
+      "features": ["Premium Seating", "Champagne Reception", "Signed Booklet", "Exhibition Access"],
+      "url": ""
+    },
+    {
+      "tier": "Platinum",
+      "price": "₹15,000",
+      "currency": "Per Person",
+      "features": ["Front Row", "Artist Meet", "Dinner Experience", "Memorabilia Box"],
+      "url": ""
+    }
+  ]
+}
