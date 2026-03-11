@@ -1,0 +1,105 @@
+{
+  "_comment": "PHASE 3 — Full reveal. All sections visible.",
+  "phase": 3,
+
+  "eventDate": "2026-04-01",
+  "eventTime": "7:30 PM onwards",
+
+  "title": "सप्तसुर",
+  "subtitle": "Tere Sur Aur Mere Geet",
+  "tagline": "In Eternal Memory of Bharat Ratna Lata Mangeshkar",
+  "description": "World Record Attempt: Performing 97 Lata Mangeshkar Songs Live Across Multiple Languages",
+
+  "wriLabel": "World Records India — Certified",
+  "countdownLabel": "Time Until the Evening of a Lifetime",
+  "comingSoonLabel": "Full reveal coming soon",
+  "comingSoonDesc": "Artists, setlist, and event details will be unveiled as the night approaches. Join us in honouring the voice that defined a generation.",
+
+  "quote": "My voice is God's gift, and I have dedicated it entirely to music.",
+  "quoteAuthor": "— Lata Mangeshkar (1929–2022)",
+
+  "footerTagline": "Tere Sur Aur Mere Geet — In Memory of Bharat Ratna Lata Mangeshkar",
+  "copyright": "© 2026 Saptasur · I Progress Foundation. All rights reserved.",
+
+  "organizers": [
+    { "name": "I Progress Foundation",     "short": "I PROG" },
+    { "name": "Sharada Sangeet Vidyalaya", "short": "SSV" },
+    { "name": "World Records India",        "short": "WRI" }
+  ],
+
+  "venue": {
+    "name": "Tapadia Natya Mandir",
+    "address": "Near Sanmitra Colony, Nirala Bazar",
+    "city": "Chh. Sambhajinagar",
+    "description": "One of Marathwada's most iconic cultural stages — the perfect setting for an evening that will echo through the ages.",
+    "mapsUrl": ""
+  },
+
+  "songs": [
+    { "title": "Lag Ja Gale",              "film": "Woh Kaun Thi (1964)" },
+    { "title": "Ajeeb Dastan Hai Yeh",     "film": "Dil Apna Aur Preet Parai (1960)" },
+    { "title": "Ae Mere Watan Ke Logo",    "film": "Live Performance (1963)" },
+    { "title": "Pyaar Kiya Toh Darna Kya", "film": "Mughal-E-Azam (1960)" },
+    { "title": "Raina Beeti Jaaye",        "film": "Amar Prem (1972)" },
+    { "title": "Kabhi Kabhi",              "film": "Kabhi Kabhie (1976)" },
+    { "title": "Tere Bina Zindagi Se",     "film": "Aandhi (1975)" },
+    { "title": "Dil Dhoondta Hai",         "film": "Mausam (1975)" },
+    { "title": "Naam Gum Jaayega",         "film": "Kinara (1977)" },
+    { "title": "Satyam Shivam Sundaram",   "film": "Satyam Shivam Sundaram (1978)" },
+    { "title": "Tujhe Dekha Toh",          "film": "DDLJ (1995)" },
+    { "title": "Kuch Kuch Hota Hai",       "film": "Kuch Kuch Hota Hai (1998)" },
+    { "title": "Suraj Hua Maddham",        "film": "K3G (2001)" },
+    { "title": "O Paalanhaare",            "film": "Lagaan (2001)" },
+    { "title": "Kehna Hi Kya",             "film": "Bombay (1995)" },
+    { "title": "Dil Se Re",                "film": "Dil Se (1998)" },
+    { "title": "Chaandni O Meri Chaandni", "film": "Chandni (1989)" },
+    { "title": "Woh Shaam Kuch Ajeeb Thi", "film": "Khamoshi (1969)" },
+    { "title": "Ayega Aanewala",           "film": "Mahal (1949)" },
+    { "title": "Rasik Balma",              "film": "Chori Chori (1956)" },
+    { "title": "Piya Tose Naina Laage Re", "film": "Guide (1965)" },
+    { "title": "Ek Pyaar Ka Nagma Hai",    "film": "Shor (1972)" },
+    { "title": "Yeh Kahan Aa Gaye Hum",    "film": "Silsila (1981)" },
+    { "title": "Mere Naina Sawan Bhadon",  "film": "Mehbooba (1976)" }
+  ],
+
+  "performers": [
+    { "name": "Sunidhi Chauhan", "role": "Lead Vocalist", "emoji": "🎤", "desc": "Bollywood's powerhouse voice, bringing fire and finesse." }
+  ],
+
+  "schedule": [
+    { "time": "7:30 PM", "name": "Inaugural Ceremony",  "desc": "Lighting of the lamp — honoring the legacy of Lataji" },
+    { "time": "8:00 PM", "name": "Act I",                "desc": "The Golden Era — songs from the 1940s and 60s" },
+    { "time": "9:00 PM", "name": "Intermission",         "desc": "Short break" },
+    { "time": "9:15 PM", "name": "Act II",               "desc": "The Eternal Voice — iconic songs from 1970–2000" },
+    { "time": "10:15 PM","name": "World Record Attempt", "desc": "97 singers, 97 songs — live and simultaneous" },
+    { "time": "11:00 PM","name": "Grand Finale",         "desc": "Ae Mere Watan Ke Logo — full ensemble" }
+  ],
+
+  "tickets": [
+    {
+      "tier": "SILVER",
+      "price": "₹300",
+      "currency": "Per Person",
+      "features": ["General Admission", "Programme Booklet"],
+      "url": "",
+      "ctaLabel": "Book Now"
+    },
+    {
+      "tier": "GOLD",
+      "price": "₹500",
+      "currency": "Per Person",
+      "featured": true,
+      "features": ["Premium Seating", "Programme Booklet", "Priority Entry"],
+      "url": "",
+      "ctaLabel": "Book Now"
+    },
+    {
+      "tier": "PLATINUM",
+      "price": "₹1000",
+      "currency": "Per Person",
+      "features": ["Front Row", "Backstage Access", "Memorabilia"],
+      "url": "",
+      "ctaLabel": "Book Now"
+    }
+  ]
+}

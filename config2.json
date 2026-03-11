@@ -1,6 +1,6 @@
 {
-  "_comment": "PHASE 1 — Coming Soon. Only hero, countdown, organizers, quote and legacy section show.",
-  "phase": 1,
+  "_comment": "PHASE 2 — Basic. Venue and tickets revealed. No songs, performers or schedule yet.",
+  "phase": 2,
 
   "eventDate": "2026-04-01",
   "eventTime": "7:30 PM onwards",
@@ -25,5 +25,24 @@
     { "name": "I Progress Foundation",     "short": "I PROG" },
     { "name": "Sharada Sangeet Vidyalaya", "short": "SSV" },
     { "name": "World Records India",        "short": "WRI" }
+  ],
+
+  "venue": {
+    "name": "Tapadia Natya Mandir",
+    "address": "Near Sanmitra Colony, Nirala Bazar",
+    "city": "Chh. Sambhajinagar",
+    "description": "One of Marathwada's most iconic cultural stages — the perfect setting for an evening that will echo through the ages.",
+    "mapsUrl": ""
+  },
+
+  "tickets": [
+    {
+      "tier": "GOLD",
+      "price": "₹500",
+      "currency": "Per Person",
+      "features": ["General Admission", "Programme Booklet"],
+      "url": "",
+      "ctaLabel": "Book Now"
+    }
   ]
 }
