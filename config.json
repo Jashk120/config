@@ -63,18 +63,13 @@
 
   "performers": [
     { "name": "Sunidhi Chauhan",          "role": "Lead Vocalist",  "emoji": "🎤", "desc": "Bollywood's powerhouse voice, bringing fire and finesse." },
-  //  { "name": "Shreya Ghoshal",           "role": "Lead Vocalist",  "emoji": "🎵", "desc": "Ethereal, classically trained — a natural torchbearer of Lataji's legacy." },
-//    { "name": "Mumbai Symphony Orchestra","role": "Live Orchestra",  "emoji": "🎻", "desc": "65 musicians, authentic period arrangements, full grandeur." }
+  
   ],
 
   "schedule": [
-    //{ "time": "6:00 PM",  "name": "Doors Open",          "desc": "Welcome & Registration" },
+  
     { "time": "7:30 PM",  "name": "Inaugural Ceremony",  "desc": "Lighting of the lamp — honoring the legacy of Lataji" },
-    //{ "time": "7:00 PM",  "name": "Act I",                "desc": "The Golden Era — songs from the 1950s and 60s" },
-    //{ "time": "8:15 PM",  "name": "Intermission",         "desc": "Short break" },
-    //{ "time": "8:30 PM",  "name": "Act II",               "desc": "The Eternal Voice — iconic songs from 1970–2000" },
-    //{ "time": "9:45 PM",  "name": "World Record Attempt", "desc": "97 singers, 97 songs — live and simultaneous" },
-    //{ "time": "10:30 PM", "name": "Grand Finale",         "desc": "Ae Mere Watan Ke Logo — full ensemble" }
+ 
   ],
 
   "tickets": [
