@@ -7,7 +7,7 @@
   "title": "सप्तसुर",
   "subtitle": "Tere Sur Aur Mere Geet",
   "tagline": "In Eternal Memory of Bharat Ratna Lata Mangeshkar",
-  "description": "World Record Attempt:Performing 97 Lata Mangeshkar Songs Live Across Multiple Languages",
+  "description": "World Record Attempt: Performing 97 Lata Mangeshkar Songs Live Across Multiple Languages",
 
   "wriLabel": "World Records India — Certified",
   "countdownLabel": "Time Until the Evening of a Lifetime",
@@ -35,41 +35,38 @@
   },
 
   "songs": [
-    { "title": "Lag Ja Gale",             "film": "Woh Kaun Thi (1964)" },
-    { "title": "Ajeeb Dastan Hai Yeh",    "film": "Dil Apna Aur Preet Parai (1960)" },
-    { "title": "Ae Mere Watan Ke Logo",   "film": "Live Performance (1963)" },
-    { "title": "Pyaar Kiya Toh Darna Kya","film": "Mughal-E-Azam (1960)" },
-    { "title": "Raina Beeti Jaaye",       "film": "Amar Prem (1972)" },
-    { "title": "Kabhi Kabhi",             "film": "Kabhi Kabhie (1976)" },
-    { "title": "Tere Bina Zindagi Se",    "film": "Aandhi (1975)" },
-    { "title": "Dil Dhoondta Hai",        "film": "Mausam (1975)" },
-    { "title": "Naam Gum Jaayega",        "film": "Kinara (1977)" },
-    { "title": "Satyam Shivam Sundaram",  "film": "Satyam Shivam Sundaram (1978)" },
-    { "title": "Tujhe Dekha Toh",         "film": "DDLJ (1995)" },
-    { "title": "Kuch Kuch Hota Hai",      "film": "Kuch Kuch Hota Hai (1998)" },
-    { "title": "Suraj Hua Maddham",       "film": "K3G (2001)" },
-    { "title": "O Paalanhaare",           "film": "Lagaan (2001)" },
-    { "title": "Kehna Hi Kya",            "film": "Bombay (1995)" },
-    { "title": "Dil Se Re",               "film": "Dil Se (1998)" },
-    { "title": "Chaandni O Meri Chaandni","film": "Chandni (1989)" },
-    { "title": "Woh Shaam Kuch Ajeeb Thi","film": "Khamoshi (1969)" },
-    { "title": "Ayega Aanewala",          "film": "Mahal (1949)" },
-    { "title": "Rasik Balma",             "film": "Chori Chori (1956)" },
-    { "title": "Piya Tose Naina Laage Re","film": "Guide (1965)" },
-    { "title": "Ek Pyaar Ka Nagma Hai",   "film": "Shor (1972)" },
-    { "title": "Yeh Kahan Aa Gaye Hum",   "film": "Silsila (1981)" },
-    { "title": "Mere Naina Sawan Bhadon", "film": "Mehbooba (1976)" }
+    { "title": "Lag Ja Gale",              "film": "Woh Kaun Thi (1964)" },
+    { "title": "Ajeeb Dastan Hai Yeh",     "film": "Dil Apna Aur Preet Parai (1960)" },
+    { "title": "Ae Mere Watan Ke Logo",    "film": "Live Performance (1963)" },
+    { "title": "Pyaar Kiya Toh Darna Kya", "film": "Mughal-E-Azam (1960)" },
+    { "title": "Raina Beeti Jaaye",        "film": "Amar Prem (1972)" },
+    { "title": "Kabhi Kabhi",              "film": "Kabhi Kabhie (1976)" },
+    { "title": "Tere Bina Zindagi Se",     "film": "Aandhi (1975)" },
+    { "title": "Dil Dhoondta Hai",         "film": "Mausam (1975)" },
+    { "title": "Naam Gum Jaayega",         "film": "Kinara (1977)" },
+    { "title": "Satyam Shivam Sundaram",   "film": "Satyam Shivam Sundaram (1978)" },
+    { "title": "Tujhe Dekha Toh",          "film": "DDLJ (1995)" },
+    { "title": "Kuch Kuch Hota Hai",       "film": "Kuch Kuch Hota Hai (1998)" },
+    { "title": "Suraj Hua Maddham",        "film": "K3G (2001)" },
+    { "title": "O Paalanhaare",            "film": "Lagaan (2001)" },
+    { "title": "Kehna Hi Kya",             "film": "Bombay (1995)" },
+    { "title": "Dil Se Re",                "film": "Dil Se (1998)" },
+    { "title": "Chaandni O Meri Chaandni", "film": "Chandni (1989)" },
+    { "title": "Woh Shaam Kuch Ajeeb Thi", "film": "Khamoshi (1969)" },
+    { "title": "Ayega Aanewala",           "film": "Mahal (1949)" },
+    { "title": "Rasik Balma",              "film": "Chori Chori (1956)" },
+    { "title": "Piya Tose Naina Laage Re", "film": "Guide (1965)" },
+    { "title": "Ek Pyaar Ka Nagma Hai",    "film": "Shor (1972)" },
+    { "title": "Yeh Kahan Aa Gaye Hum",    "film": "Silsila (1981)" },
+    { "title": "Mere Naina Sawan Bhadon",  "film": "Mehbooba (1976)" }
   ],
 
   "performers": [
-    { "name": "Sunidhi Chauhan",          "role": "Lead Vocalist",  "emoji": "🎤", "desc": "Bollywood's powerhouse voice, bringing fire and finesse." },
-  
+    { "name": "Sunidhi Chauhan", "role": "Lead Vocalist", "emoji": "🎤", "desc": "Bollywood's powerhouse voice, bringing fire and finesse." }
   ],
 
   "schedule": [
-  
-    { "time": "7:30 PM",  "name": "Inaugural Ceremony",  "desc": "Lighting of the lamp — honoring the legacy of Lataji" },
- 
+    { "time": "7:30 PM", "name": "Inaugural Ceremony", "desc": "Lighting of the lamp — honoring the legacy of Lataji" }
   ],
 
   "tickets": [
