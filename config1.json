@@ -1,0 +1,29 @@
+{
+  "_comment": "PHASE 1 — Coming Soon. Only hero, countdown, organizers, quote and legacy section show.",
+  "phase": 1,
+
+  "eventDate": "2026-04-01",
+  "eventTime": "7:30 PM onwards",
+
+  "title": "सप्तसुर",
+  "subtitle": "Tere Sur Aur Mere Geet",
+  "tagline": "In Eternal Memory of Bharat Ratna Lata Mangeshkar",
+  "description": "World Record Attempt: Performing 97 Lata Mangeshkar Songs Live Across Multiple Languages",
+
+  "wriLabel": "World Records India — Certified",
+  "countdownLabel": "Time Until the Evening of a Lifetime",
+  "comingSoonLabel": "Full reveal coming soon",
+  "comingSoonDesc": "Artists, setlist, and event details will be unveiled as the night approaches. Join us in honouring the voice that defined a generation.",
+
+  "quote": "My voice is God's gift, and I have dedicated it entirely to music.",
+  "quoteAuthor": "— Lata Mangeshkar (1929–2022)",
+
+  "footerTagline": "Tere Sur Aur Mere Geet — In Memory of Bharat Ratna Lata Mangeshkar",
+  "copyright": "© 2026 Saptasur · I Progress Foundation. All rights reserved.",
+
+  "organizers": [
+    { "name": "I Progress Foundation",     "short": "I PROG" },
+    { "name": "Sharada Sangeet Vidyalaya", "short": "SSV" },
+    { "name": "World Records India",        "short": "WRI" }
+  ]
+}
