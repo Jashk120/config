@@ -26,13 +26,15 @@
     "short": "I PROG",
     "phone": ["+91 98765 43210", "+91 91234 56789"],
     "email": ["info@iprog.org", "events@iprog.org"],
-    "address": "123, MG Road, Chh. Sambhajinagar"
+    "address": "123, MG Road, Chh. Sambhajinagar",
+    "show": false
   },
   {
     "name": "Sharada Sangeet Vidyalaya",
     "short": "SSV",
     "phone": "+91 XXXXX XXXXX",
     "email": "ssv@example.com",
+    "show": true,
     "address": "Your address here"
   },
   {
@@ -40,6 +42,7 @@
     "short": "AAH",
     "phone": "+91 XXXXX XXXXX",
     "email": "adhar@example.com",
+    "show": false,
     "address": "Your address here"
   }
 ],
