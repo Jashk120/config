@@ -60,8 +60,22 @@
   ],
 
   "performers": [
-    { "name": "Kedar Deshmukh", "role": "Director & Organizer", "emoji": "🎼", "desc": "Musical Director & Program Organizer", "url":null },
-    { "name": "Nishad Deshmukh", "role": "Singer & Music Arranger", "emoji": "🎼", "desc": "music arrangements and vocals by Nishad Deshmukh (MHS CU fame)", "url":null, "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1773660770/Saptsur/WhatsApp_Image_2026-03-16_at_4.28.31_PM_ivwfno.jpg" }
+     {
+    "name": "Kedar Deshmukh",
+    "role": "Musical Director & Organiser",
+    "emoji": "🎼",
+    "desc": "The creative force behind Saptasur —  directing, and shaping an evening that honours 97 songs of Lata Mangeshkar across languages and eras.",
+    "url": null
+  },
+  
+  {
+  "name": "Nishad Deshmukh",
+  "role": "Vocalist & Music Arranger",
+  "emoji": "🎤",
+  "desc": "Bringing refined musicality to the arrangements — breathing new life into timeless melodies.",
+  "url": null,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1773660770/Saptsur/WhatsApp_Image_2026-03-16_at_4.28.31_PM_ivwfno.jpg"
+}
   ],
 
   "schedule": [
