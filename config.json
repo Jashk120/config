@@ -20,13 +20,29 @@
 
   "footerTagline": "Tere Sur Aur Mere Geet — In Memory of Bharat Ratna Lata Mangeshkar",
   "copyright": "© 2026 Saptasur · I Progress Foundation. All rights reserved.",
-
-  "organizers": [
-    { "name": "I Progress Foundation",     "short": "I PROG" },
-    { "name": "Sharada Sangeet Vidyalaya", "short": "SSV" },
-    { "name": "Adhar Old Age Home",        "short": "AAH" }
-  ],
-
+"organizers": [
+  {
+    "name": "I Progress Foundation",
+    "short": "I PROG",
+    "phone": ["+91 98765 43210", "+91 91234 56789"],
+    "email": ["info@iprog.org", "events@iprog.org"],
+    "address": "123, MG Road, Chh. Sambhajinagar"
+  },
+  {
+    "name": "Sharada Sangeet Vidyalaya",
+    "short": "SSV",
+    "phone": "+91 XXXXX XXXXX",
+    "email": "ssv@example.com",
+    "address": "Your address here"
+  },
+  {
+    "name": "Adhar Old Age Home",
+    "short": "AAH",
+    "phone": "+91 XXXXX XXXXX",
+    "email": "adhar@example.com",
+    "address": "Your address here"
+  }
+],
   "venue": {
     "name": "Tapadia Natya Mandir",
     "address": "Near Sanmitra Colony, Nirala Bazar",
