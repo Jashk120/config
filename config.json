@@ -59,7 +59,7 @@
       "currency": "Per Person",
       "features": ["Balcony Row D-C"],
       "featured": true,
-      "badge": "Most Popular",
+      "badge": "Selling Fast",
       "seatSection": "Stalls",
       "url": "https://in.bookmyshow.com/events/tere-sur-aur-mere-geet-2026/ET00491309",
       "ctaLabel": "Book Now"
@@ -69,8 +69,11 @@
       "price": "₹300",
       "currency": "Per Person",
       "featured": true,
+      "badge": "Most Popular",
+      "seatSection": "Stalls",
       "features": ["Row K-P"],
-      "url": "https://in.bookmyshow.com/events/tere-sur-aur-mere-geet-2026/ET00491309",
+      "availability": "limited",
+      "url": "https://in.bookmyshow.com/...",
       "ctaLabel": "Book Now"
     },
     {
