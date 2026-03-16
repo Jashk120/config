@@ -24,7 +24,7 @@
   "organizers": [
     { "name": "I Progress Foundation",     "short": "I PROG" },
     { "name": "Sharada Sangeet Vidyalaya", "short": "SSV" },
-    { "name": "World Records India",        "short": "WRI" }
+    { "name": "Adhar Old Age Home",        "short": "AAH" }
   ],
 
   "venue": {
@@ -36,69 +36,46 @@
   },
 
   "songs": [
-    { "title": "Lag Ja Gale",              "film": "Woh Kaun Thi (1964)" },
-    { "title": "Ajeeb Dastan Hai Yeh",     "film": "Dil Apna Aur Preet Parai (1960)" },
-    { "title": "Ae Mere Watan Ke Logo",    "film": "Live Performance (1963)" },
-    { "title": "Pyaar Kiya Toh Darna Kya", "film": "Mughal-E-Azam (1960)" },
-    { "title": "Raina Beeti Jaaye",        "film": "Amar Prem (1972)" },
-    { "title": "Kabhi Kabhi",              "film": "Kabhi Kabhie (1976)" },
-    { "title": "Tere Bina Zindagi Se",     "film": "Aandhi (1975)" },
-    { "title": "Dil Dhoondta Hai",         "film": "Mausam (1975)" },
-    { "title": "Naam Gum Jaayega",         "film": "Kinara (1977)" },
-    { "title": "Satyam Shivam Sundaram",   "film": "Satyam Shivam Sundaram (1978)" },
-    { "title": "Tujhe Dekha Toh",          "film": "DDLJ (1995)" },
-    { "title": "Kuch Kuch Hota Hai",       "film": "Kuch Kuch Hota Hai (1998)" },
-    { "title": "Suraj Hua Maddham",        "film": "K3G (2001)" },
-    { "title": "O Paalanhaare",            "film": "Lagaan (2001)" },
-    { "title": "Kehna Hi Kya",             "film": "Bombay (1995)" },
-    { "title": "Dil Se Re",                "film": "Dil Se (1998)" },
-    { "title": "Chaandni O Meri Chaandni", "film": "Chandni (1989)" },
-    { "title": "Woh Shaam Kuch Ajeeb Thi", "film": "Khamoshi (1969)" },
-    { "title": "Ayega Aanewala",           "film": "Mahal (1949)" },
-    { "title": "Rasik Balma",              "film": "Chori Chori (1956)" },
-    { "title": "Piya Tose Naina Laage Re", "film": "Guide (1965)" },
-    { "title": "Ek Pyaar Ka Nagma Hai",    "film": "Shor (1972)" },
-    { "title": "Yeh Kahan Aa Gaye Hum",    "film": "Silsila (1981)" },
-    { "title": "Mere Naina Sawan Bhadon",  "film": "Mehbooba (1976)" }
+    { "title": "Lag Ja Gale",              "film": "Woh Kaun Thi (1964)" }
+   
   ],
 
   "performers": [
-    { "name": "Sunidhi Chauhan", "role": "Lead Vocalist", "emoji": "🎤", "desc": "Bollywood's powerhouse voice, bringing fire and finesse." }
+    { "name": "Kedar Deshmukh", "role": "Lead Vocalist", "emoji": "🎤", "desc": " " }
   ],
 
   "schedule": [
-    { "time": "7:30 PM", "name": "Inaugural Ceremony",  "desc": "Lighting of the lamp — honoring the legacy of Lataji" },
-    { "time": "8:00 PM", "name": "Act I",                "desc": "The Golden Era — songs from the 1940s and 60s" },
+    { "time": "7:30 PM", "name": "Inaugural Ceremony",   "desc": "Lighting of the lamp — honoring the legacy of Lataji" },
+    { "time": "8:00 PM", "name": "Marathi Songs",        "desc": "Marathi Songs" },
     { "time": "9:00 PM", "name": "Intermission",         "desc": "Short break" },
     { "time": "9:15 PM", "name": "Act II",               "desc": "The Eternal Voice — iconic songs from 1970–2000" },
-    { "time": "10:15 PM","name": "World Record Attempt", "desc": "97 singers, 97 songs — live and simultaneous" },
     { "time": "11:00 PM","name": "Grand Finale",         "desc": "Ae Mere Watan Ke Logo — full ensemble" }
   ],
 
   "tickets": [
     {
       "tier": "SILVER",
-      "price": "₹300",
+      "price": "₹200",
       "currency": "Per Person",
-      "features": ["General Admission", "Programme Booklet"],
-      "url": "",
+      "features": ["Balcony Row D-C"],
+      "url": "https://in.bookmyshow.com/events/tere-sur-aur-mere-geet-2026/ET00491309",
       "ctaLabel": "Book Now"
     },
     {
       "tier": "GOLD",
-      "price": "₹500",
+      "price": "₹300",
       "currency": "Per Person",
       "featured": true,
-      "features": ["Premium Seating", "Programme Booklet", "Priority Entry"],
-      "url": "",
+      "features": ["Row K-P"],
+      "url": "https://in.bookmyshow.com/events/tere-sur-aur-mere-geet-2026/ET00491309",
       "ctaLabel": "Book Now"
     },
     {
       "tier": "PLATINUM",
-      "price": "₹1000",
+      "price": "₹500",
       "currency": "Per Person",
-      "features": ["Front Row", "Backstage Access", "Memorabilia"],
-      "url": "",
+      "features": ["Row F-J"],
+      "url": "https://in.bookmyshow.com/events/tere-sur-aur-mere-geet-2026/ET00491309",
       "ctaLabel": "Book Now"
     }
   ]
