@@ -53,17 +53,15 @@
   ],
 
   "tickets": [
-    {
-      "tier": "SILVER",
-      "price": "₹200",
-      "currency": "Per Person",
-      "features": ["Balcony Row D-C"],
-      "featured": true,
-      "badge": "Selling Fast",
-      "seatSection": "Stalls",
-      "url": "https://in.bookmyshow.com/events/tere-sur-aur-mere-geet-2026/ET00491309",
-      "ctaLabel": "Book Now"
-    },
+   {
+    "tier": "SILVER",
+    "price": "₹200",
+    "currency": "Per Person",
+    "seatSection": "Balcony",
+    "features": ["Balcony Row D-C"],
+    "url": "https://in.bookmyshow.com/events/tere-sur-aur-mere-geet-2026/ET00491309",
+    "ctaLabel": "Book Now"
+  },
     {
       "tier": "GOLD",
       "price": "₹300",
@@ -73,13 +71,14 @@
       "seatSection": "Stalls",
       "features": ["Row K-P"],
       "availability": "limited",
-      "url": "https://in.bookmyshow.com/...",
+      "url": "https://in.bookmyshow.com/events/tere-sur-aur-mere-geet-2026/ET00491309",
       "ctaLabel": "Book Now"
     },
     {
       "tier": "PLATINUM",
       "price": "₹500",
       "currency": "Per Person",
+      "seatSection": "Stalls",
       "features": ["Row F-J"],
       "url": "https://in.bookmyshow.com/events/tere-sur-aur-mere-geet-2026/ET00491309",
       "ctaLabel": "Book Now"
