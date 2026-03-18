@@ -59,24 +59,41 @@
    
   ],
 
-  "performers": [
-     {
+"performers": [
+  {
     "name": "Kedar Deshmukh",
     "role": "Musical Director & Organiser",
     "emoji": "🎼",
-    "desc": "The creative force behind Saptasur —  directing, and shaping an evening that honours 97 songs of Lata Mangeshkar across languages and eras.",
-    "url": null
+    "desc": "The creative force behind Saptasur — directing, and shaping an evening that honours 97 songs of Lata Mangeshkar across languages and eras.",
+    "url": null,
+    "special": false,
+    "performer": true
   },
-  
   {
-  "name": "Nishad Deshmukh",
-  "role": "Celebrity Singer & Music Arranger",
-  "emoji": "🎤",
-  "desc": "Bringing refined musicality to the arrangements — breathing new life into timeless melodies.",
-  "url": null,
-  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1773660770/Saptsur/WhatsApp_Image_2026-03-16_at_4.28.31_PM_ivwfno.jpg"
-}
-  ],
+    "name": "Nishad Deshmukh",
+    "role": "Celebrity Singer & Music Arranger",
+    "emoji": "🎤",
+    "desc": "Bringing refined musicality to the arrangements — breathing new life into timeless melodies.",
+    "url": null,
+    "special": true,
+    "performer": true,
+    "badge": "As Seen on Star Pravah",
+    "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1773660770/Saptsur/WhatsApp_Image_2026-03-16_at_4.28.31_PM_ivwfno.jpg",
+    "imgUrl2": ""
+  },
+   {
+    "name": "Vijay Dhondge",
+    "role": "Celebrity Singer",
+    "emoji": "🎤",
+    "desc": "Renowned from Zee's Sa Re Ga Ma Pa, Vijay Dhondge graces this evening with a voice that has moved audiences across Maharashtra.",
+    "url": null,
+    "special": true,
+    "performer": true,
+    "badge": "Zee Sa Re Ga Ma Pa Fame",
+    "imgUrl": "",
+    "imgUrl2": ""
+  }
+],
 
   "schedule": [
     { "time": "7:30 PM", "name": "Inaugural Ceremony",   "desc": "Lighting of the lamp — honoring the legacy of Lataji" },
