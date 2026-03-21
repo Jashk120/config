@@ -91,6 +91,26 @@
   "imgUrl2": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1773893144/WhatsApp_Image_2026-03-18_at_11.12.23_PM_oyficu.jpg"
 },
 {
+  "name": "Girish Dhunde",
+  "role": "Renowned singer and music educationalist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":"Renowned singer and music educationalist",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774066276/WhatsApp_Image_2026-03-21_at_9.06.05_AM_w4jqn9.jpg"
+},
+{
+  "name": "Vijay Muley",
+  "role": "Renowned singer",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":"",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774071812/IMG-20230906-WA0001.jpg_su7mmq.jpg"
+},
+{
   "name": "Suraj Kadam",
   "role": "Vocalist",
   "emoji": "🎤",
@@ -110,6 +130,7 @@
   "performer": true,
   "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774065127/CDS_9113.JPG_cu2lxg.jpg"
 },
+
 {
   "name": "Om H. Hukare",
   "role": "Vocalist",
@@ -121,14 +142,14 @@
   "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774065265/04.jpg_rymv7t.jpg"
 },
 {
-  "name": "Girish Dhunde",
+  "name": "PRAFUL DABHADE",
   "role": "Vocalist",
   "emoji": "🎤",
   "url": null,
   "special": false,
   "desc":" ",
   "performer": true,
-  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774066276/WhatsApp_Image_2026-03-21_at_9.06.05_AM_w4jqn9.jpg"
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774073037/output_transparent_utvh3c.png"
 },
 {
   "name": "Rameshwar Joshi",
@@ -159,6 +180,16 @@
   "desc":" ",
   "performer": true,
   "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774065267/01.jpg_zy6imf.jpg"
+},
+{
+  "name": "ANUKALP DABHADE",
+  "role": "Vocalist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":" ",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774073263/CDS_9126.JPG_mbbgqe.jpg"
 },
 {
   "name": "Saransh Oak",
