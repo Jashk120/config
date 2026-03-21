@@ -149,7 +149,38 @@
   "desc":" ",
   "performer": true,
   "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774067260/WhatsApp_Image_2026-03-21_at_9.50.13_AM_apauc3.jpg"
+},
+{
+  "name": "Aayush Wankhede",
+  "role": "Vocalist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":" ",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774065267/01.jpg_zy6imf.jpg"
+},
+{
+  "name": "Saransh Oak",
+  "role": "Vocalist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":" ",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774067080/02.jpg_kimeo4.jpg"
+},
+{
+  "name": "Sanskruti Kulkarni",
+  "role": "Vocalist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":" ",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774065270/03.jpg_f7ze10.jpg"
 }
+
 ],
 
   "schedule": [
