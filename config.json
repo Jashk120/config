@@ -118,7 +118,7 @@
   "special": false,
   "desc":" ",
   "performer": true,
-  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774065264/02.jpg_kimeo4.jpg"
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774065265/04.jpg_rymv7t.jpg"
 },
 {
   "name": "Girish Dhunde",
@@ -139,6 +139,16 @@
   "desc":" ",
   "performer": true,
   "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774066463/img_1_bi3yyh.png"
+},
+{
+  "name": "Supriya Kasture",
+  "role": "Vocalist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":" ",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774067260/WhatsApp_Image_2026-03-21_at_9.50.13_AM_apauc3.jpg"
 }
 ],
 
