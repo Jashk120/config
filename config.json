@@ -96,6 +96,7 @@
   "emoji": "🎤",
   "url": null,
   "special": false,
+  "desc":" ",
   "performer": true,
   "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774065138/CDS_9114.JPG_cltodc.jpg"
 },
@@ -104,6 +105,7 @@
   "role": "Vocalist",
   "emoji": "🎤",
   "url": null,
+  "desc":" ",
   "special": false,
   "performer": true,
   "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774065127/CDS_9113.JPG_cu2lxg.jpg"
