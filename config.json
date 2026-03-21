@@ -89,6 +89,24 @@
   "badge": "Zee Sa Re Ga Ma Pa Fame",
   "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1773893297/CDS_9120.JPG_lhb9x7.jpg",
   "imgUrl2": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1773893144/WhatsApp_Image_2026-03-18_at_11.12.23_PM_oyficu.jpg"
+},
+{
+  "name": "Suraj Kadam",
+  "role": "Vocalist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774065138/CDS_9114.JPG_cltodc.jpg"
+},
+{
+  "name": "Sharad Llokhande",
+  "role": "Vocalist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774065127/CDS_9113.JPG_cu2lxg.jpg"
 }
 ],
 
