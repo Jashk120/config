@@ -253,5 +253,12 @@
       "url": "https://in.bookmyshow.com/events/tere-sur-aur-mere-geet-2026/ET00491309",
       "ctaLabel": "Book Now"
     }
-  ]
+  ],
+  "sponsors": [
+  {
+    "name": "Sponsor Name",
+    "logoUrl": "https://your-logo-url.png",
+    "url": "https://their-website.com",
+    "tagline": "Optional one-liner"
+  }]
 }
