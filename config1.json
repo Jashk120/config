@@ -1,6 +1,6 @@
 {
-  "_comment": "PHASE 1 — Coming Soon. Only hero, countdown, organizers, quote and legacy section show.",
-  "phase": 1,
+  "_comment": "PHASE 3 — Full reveal. All sections visible.",
+  "phase": 3,
 
   "eventDate": "2026-04-01",
   "eventTime": "7:30 PM onwards",
@@ -20,10 +20,273 @@
 
   "footerTagline": "Tere Sur Aur Mere Geet — In Memory of Bharat Ratna Lata Mangeshkar",
   "copyright": "© 2026 Saptasur · I Progress Foundation. All rights reserved.",
+"organizers": [
+  {
+    "name": "I Progress Foundation",
+    "short": "I PROG",
+    "phone": ["+91 98765 43210", "+91 91234 56789"],
+    "email": ["info@iprog.org", "events@iprog.org"],
+    "address": "123, MG Road, Chh. Sambhajinagar",
+    "show": false
+  },
+  {
+    "name": "Sharada Sangeet Vidyalaya",
+    "short": "SSV",
+    "phone": "+91 86000 96991",
+    "email": " kedarvijaydeshmukh@gmail.com",
+    "show": true,
+    "address": "Plot no 8 Saptasur, Sharada Govind Niwas Opp. Chate School, Behind Apratim Park C & D, Mahranapratap Marg ,Satara Parisar, Chh.Sambhajinagar."
+  },
+  {
+    "name": "Adhar Old Age Home",
+    "short": "AAH",
+    "phone": "+91 XXXXX XXXXX",
+    "email": "adhar@example.com",
+    "show": false,
+    "address": "Your address here"
+  }
+],
+  "venue": {
+    "name": "Tapadia Natya Mandir",
+    "address": "Near Sanmitra Colony, Nirala Bazar",
+    "city": "Chh. Sambhajinagar",
+    "description": "One of Marathwada's most iconic cultural stages — the perfect setting for an evening that will echo through the ages.",
+    "mapsUrl": ""
+  },
 
-  "organizers": [
-    { "name": "I Progress Foundation",     "short": "I PROG" },
-    { "name": "Sharada Sangeet Vidyalaya", "short": "SSV" },
-    { "name": "World Records India",        "short": "WRI" }
-  ]
+  
+
+"performers": [
+  {
+    "name": "Kedar Deshmukh",
+    "role": "Musical Director & Organiser",
+    "emoji": "🎼",
+    "desc": "The creative force behind Saptasur — directing, and shaping an evening that honours 97 songs of Lata Mangeshkar across languages and eras.",
+    "url": null,
+    "special": false,
+    "performer": true
+  },
+  {
+  "name": "Nishad Deshmukh",
+  "role": "Celebrity Singer & Music Arranger",
+  "emoji": "🎤",
+  "desc": "This evening's program proudly presents Nishad Deshmukh — renowned from Mi Honar Superstar: Chhote Ustaad — whose refined musicality and masterful arrangements breathe new life into timeless melodies.",
+  "url": null,
+  "special": true,
+  "performer": true,
+  "badge": "Mi Honar Superstar - Chhote Ustaad",
+  "imgUrl2": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1773660770/Saptsur/WhatsApp_Image_2026-03-16_at_4.28.31_PM_ivwfno.jpg",
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1773893818/WhatsApp_Image_2026-03-16_at_4.28.32_PM_gzzwes.jpg"
+},
+{
+  "name": "Vijay Dhondge",
+  "role": "Celebrity Singer & Coordinator",
+  "emoji": "🎤",
+  "desc": "This evening's program proudly presents Vijay Dhondge — Zee Sa Re Ga Ma Pa fame — a voice that has touched the hearts of audiences across Maharashtra.",
+  "url": null,
+  "special": true,
+  "performer": true,
+  "badge": "Zee Sa Re Ga Ma Pa Fame",
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1773893297/CDS_9120.JPG_lhb9x7.jpg",
+  "imgUrl2": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1773893144/WhatsApp_Image_2026-03-18_at_11.12.23_PM_oyficu.jpg"
+},
+{
+  "name": "Girish Dhunde",
+  "role": "Renowned singer and music educationalist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":"Renowned singer and music educationalist",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774066276/WhatsApp_Image_2026-03-21_at_9.06.05_AM_w4jqn9.jpg"
+},
+{
+  "name": "Vijay Muley",
+  "role": "Renowned singer",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":"",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774071812/IMG-20230906-WA0001.jpg_su7mmq.jpg"
+},
+{
+  "name": "Suraj Kadam",
+  "role": "Vocalist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":" ",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774065138/CDS_9114.JPG_cltodc.jpg"
+},
+{
+  "name": "Sharad Llokhande",
+  "role": "Vocalist",
+  "emoji": "🎤",
+  "url": null,
+  "desc":" ",
+  "special": false,
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774065127/CDS_9113.JPG_cu2lxg.jpg"
+},{
+  "name": "Shivali kulkarni-Gaikwad",
+  "role": "Vocalist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":" ",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/c_crop,w_2000,h_1600,g_auto/v1774528902/IMG_9955------.jpg_qxdvci.jpg"
+},
+{
+  "name": "Om H. Hukare",
+  "role": "Vocalist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":" ",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774065265/04.jpg_rymv7t.jpg"
+},
+{
+  "name": "PRAFUL DABHADE",
+  "role": "Vocalist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":" ",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774186751/CDS_9129.JPG_lat6pu.png"
+},
+{
+  "name": "Rameshwar Joshi",
+  "role": "Vocalist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":" ",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774066463/img_1_bi3yyh.png"
+},
+{
+  "name": "Supriya Kasture",
+  "role": "Vocalist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":" ",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774067260/WhatsApp_Image_2026-03-21_at_9.50.13_AM_apauc3.jpg"
+},
+{
+  "name": "Aayush Wankhede",
+  "role": "Vocalist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":" ",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774065267/01.jpg_zy6imf.jpg"
+},
+{
+  "name": "ANUKALP DABHADE",
+  "role": "Vocalist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":" ",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774073263/CDS_9126.JPG_mbbgqe.jpg"
+},
+{
+  "name": "Saransh Oak",
+  "role": "Vocalist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":" ",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774067080/02.jpg_kimeo4.jpg"
+},
+{
+  "name": "Sonali Oak",
+  "role": "Vocalist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":" ",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774528941/CDS_9446.JPG_rzw7wx.jpg"
+},
+{
+  "name": "Yashvardhan Deshmukh",
+  "role": "Vocalist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":" ",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/c_crop,w_600,h_600,g_auto/v1774240769/WhatsApp_Image_2026-03-22_at_11.54.37_PM_xyrtyf.jpg"
+},
+{
+  "name": "Sanskruti Kulkarni",
+  "role": "Vocalist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":" ",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774528939/CDS_9450.JPG_w6jzo5.jpg"
+}
+
+],
+
+  "schedule": [
+    { "time": "7:30 PM", "name": "Inaugural Ceremony",   "desc": "Lighting of the lamp — honoring the legacy of Lataji" },
+    { "time": "8:00 PM", "name": "Marathi Songs",        "desc": "Marathi Songs" },
+    { "time": "9:00 PM", "name": "Intermission",         "desc": "Short break" },
+    { "time": "9:15 PM", "name": "Act II",               "desc": "The Eternal Voice — iconic songs from 1970–2000" },
+    { "time": "11:00 PM","name": "Grand Finale",         "desc": "Ae Mere Watan Ke Logo — full ensemble" }
+  ],
+
+  "tickets": [
+   {
+    "tier": "SILVER",
+    "price": "₹200",
+    "currency": "Per Person",
+    "seatSection": "Balcony",
+    "features": ["Balcony Row D-C"],
+    "url": "https://in.bookmyshow.com/events/tere-sur-aur-mere-geet-2026/ET00491309",
+    "ctaLabel": "Book Now"
+  },
+    {
+      "tier": "GOLD",
+      "price": "₹300",
+      "currency": "Per Person",
+      "featured": true,
+      "badge": "Most Popular",
+      "seatSection": "Stalls",
+      "features": ["Row K-P"],
+      "availability": "limited",
+      "url": "https://in.bookmyshow.com/events/tere-sur-aur-mere-geet-2026/ET00491309",
+      "ctaLabel": "Book Now"
+    },
+    {
+      "tier": "PLATINUM",
+      "price": "₹500",
+      "currency": "Per Person",
+      "seatSection": "Stalls",
+      "features": ["Row F-J"],
+      "url": "https://in.bookmyshow.com/events/tere-sur-aur-mere-geet-2026/ET00491309",
+      "ctaLabel": "Book Now"
+    }
+  ],
+  "sponsors": [
+  {
+    "name": "KALACHASHMA.COM",
+    "logoUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774500908/WhatsApp_Image_2026-03-25_at_12.50.12_PM_msdufl.jpg",
+    "url": "https://their-website.com",
+    "tagline": "KALACHASHMA.COM OPTICAL SHOP"
+  }]
 }
