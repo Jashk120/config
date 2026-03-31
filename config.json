@@ -181,7 +181,7 @@
 },
 {
   "name": "Aayush Wankhede",
-  "role": "Vocalist",
+  "role": "Vocalist & Guitarist",
   "emoji": "🎤",
   "url": null,
   "special": false,
@@ -265,6 +265,15 @@
   "desc":" ",
   "performer": true,
   "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/c_crop,w_1000,h_1000,g_auto/v1774930377/WhatsApp_Image_2026-03-30_at_5.57.55_PM_mextyr.jpg"
+},{
+  "name": "Sharad Dandge",
+  "role": "Tabala",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":" ",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774952350/WhatsApp_Image_2026-03-31_at_3.13.03_PM_od939z.jpg"
 }
 
 
