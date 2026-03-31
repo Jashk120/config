@@ -238,7 +238,35 @@
   "desc":" ",
   "performer": true,
   "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774528939/CDS_9450.JPG_w6jzo5.jpg"
+},{
+  "name": "Vijendrakumar Mimrot",
+  "role": "Keyboardist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":" ",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/c_fill,w_2000,h_2000,ar_1:1/v1774930128/WhatsApp_Image_2026-03-30_at_5.41.50_PM_hdm3ct.jpg"
+},{
+  "name": "Rahul Joshi",
+  "role": "drummer",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":" ",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/c_fill,w_1500,h_1500,g_auto/v1774930302/WhatsApp_Image_2026-03-30_at_5.41.51_PM_kchold.jpg"
+},{
+  "name": "Prabodh Joshi",
+  "role": "violinist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":" ",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/c_crop,w_1000,h_1000,g_auto/v1774930377/WhatsApp_Image_2026-03-30_at_5.57.55_PM_mextyr.jpg"
 }
+
 
 ],
 
