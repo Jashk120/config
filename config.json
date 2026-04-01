@@ -64,7 +64,8 @@
     "desc": "The creative force behind Saptasur — directing, and shaping an evening that honours 97 songs of Lata Mangeshkar across languages and eras.",
     "url": null,
     "special": false,
-    "performer": true
+    "performer": true,
+     "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1775019241/Gemini_Generated_Image_y0e8tgy0e8tgy0e8_bygkpv.png"
   },
   {
   "name": "Nishad Deshmukh",
@@ -274,6 +275,15 @@
   "desc":" ",
   "performer": true,
   "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1774952350/WhatsApp_Image_2026-03-31_at_3.13.03_PM_od939z.jpg"
+},{
+  "name": "Milind Dolare",
+  "role": "Keyboardist",
+  "emoji": "🎤",
+  "url": null,
+  "special": false,
+  "desc":" ",
+  "performer": true,
+  "imgUrl": "https://res.cloudinary.com/dzxvxhf1s/image/upload/v1775019332/WhatsApp_Image_2026-04-01_at_12.55.54_AM_zvoie7.jpg"
 }
 
 
